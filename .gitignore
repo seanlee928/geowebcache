@@ -1,0 +1,25 @@
+build-full.bat
+target
+.settings
+.classpath
+.project
+*.class
+*.pyc
+
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+
+# Komodo
+*.komodoproject
+.komodotools
+
